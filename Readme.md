@@ -2,7 +2,7 @@
 
 Unity kullanılarak 2D fizik ve mekaniklerle geliştirilmiş, aşamalı zorluk seviyelerine sahip üstten bakışlı (top-down) bir araba park etme simülasyonu.
 
-🎮 **[Hemen Tarayıcıda Oyna (Unity Play)](BURAYA_UNITY_PLAY_LINKINI_YAPISTIR)**
+🎮 **[Hemen Tarayıcıda Oyna (Unity Play)]([BURAYA_UNITY_PLAY_LINKINI_YAPISTIR](https://play.unity.com/en/games/a160f323-d016-4b88-8547-9c9725775e5a/resque-the-duldul))**
 
 ---
 
