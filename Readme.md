@@ -2,7 +2,7 @@
 
 Unity kullanılarak 2D fizik ve mekaniklerle geliştirilmiş, aşamalı zorluk seviyelerine sahip üstten bakışlı (top-down) bir araba park etme simülasyonu.
 
-🎮 **[Hemen Tarayıcıda Oyna (Unity Play)]([BURAYA_UNITY_PLAY_LINKINI_YAPISTIR](https://play.unity.com/en/games/a160f323-d016-4b88-8547-9c9725775e5a/resque-the-duldul))**
+🎮 **[Hemen Tarayıcıda Oyna (Unity Play)](https://play.unity.com/en/games/a160f323-d016-4b88-8547-9c9725775e5a/resque-the-duldul)**
 
 ---
 
@@ -45,17 +45,3 @@ Oyun; seviye ilerledikçe artan zorluk dinamikleri, dinamik engeller (hareketli 
 - **Fizik:** Rigidbody2D, BoxCollider2D, CompositeCollider2D
 
 ---
-
-## 📂 Proje Yapısı
-
-```text
-Assets/
-├── Prefabs/          # Araç, park alanı ve engel prefab'leri
-├── Scenes/           # StartMenu, Level_1, Level_2, Level_3, Level_4
-├── Scripts/
-│   ├── TopDownCarController.cs  # Araç hareket mekaniği
-│   ├── CarHealth.cs             # Çarpışma ve hasar tespiti
-│   ├── UIManager.cs             # Menüler, kaza ve kazanma panelleri
-│   ├── MovingObstacle.cs        # Dinamik engel davranışı
-│   └── ParkingSpot.cs           # Hedef park kontrolü
-└── Sprites/          # Görseller ve park alanı kaplamaları
